@@ -2,10 +2,6 @@
 
 ### Proyecto académico – Prácticas Profesionalizantes I (Tecnicatura en Análisis de Sistemas)
 
-## 📸 Vista general del proyecto
-
-(Insertá aquí una imagen del prototipo o el diagrama que me enviaste)
-
 ## 🚀 Descripción
 
 TobyFood es un sistema automático para alimentar e hidratar mascotas mediante sensores, actuadores y programación configurable.
