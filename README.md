@@ -15,11 +15,11 @@ Este proyecto combina electrónica, programación embebida, interfaz física y d
 
 * Lenguaje: Arduino C/C++
 * Librerías utilizadas:
-* HX711
-* Servo
-* Keypad
-* LiquidCrystal_I2C
-* EEPROM
+  * HX711
+  * Servo
+  * Keypad
+  * LiquidCrystal_I2C
+  * EEPROM
   
 ### 🔧 Hardware utilizado
 
